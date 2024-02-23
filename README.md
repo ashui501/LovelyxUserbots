@@ -23,7 +23,7 @@
 - `LOG_CHAT` - Create an Group and add [@LEVI_ACKERMANU_ROBOT](https://telegram.me/@LEVI_ACKERMANU_ROBOT]) and send `/id`
 
 ## Support Group
-- Facing Problems in this? No Problem, Visit us in [@TheCodentsSupport](https://telegram.me/LovelyXSupport)
+- Facing Problems in this? No Problem, Visit us in [@LovelyXSupport](https://telegram.me/LovelyXSupport)
 
 # LEGAL
 ## Credits
